@@ -1,4 +1,2 @@
-# Python-Tkinter-stuff
-.py files that utilize Tkinter
-
-more to be added
+# Tkinter-program-projects
+Python programs that utilize that Tkinter library.
