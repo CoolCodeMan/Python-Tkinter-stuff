@@ -1,7 +1,7 @@
 from tkinter import*
 
 #A small text conversion tool with Tkinter
-#Add more options, some day.
+#Add more options.
 def main():
     #define root
     root = Tk()
