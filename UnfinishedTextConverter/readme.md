@@ -4,5 +4,5 @@ Start with the command:
 
 -
 
-A GUI program to convert text with.
+A GUI program to quickly convert text with.
 A work in progress.
